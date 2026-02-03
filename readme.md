@@ -17,3 +17,6 @@ A: just make a bug report and i will look into it
 
 Q: can you make *this* for me?\
 A: just make an issue with the "commission" tag, but depending on the size of the project I might want to get paid, but that won't happen fast.
+
+Q: can I use *this* for *this*?\
+A: you are free to share, use and edit these projects as long as you credit me and add a direct link to [this page](https://github.com/moos4/moos4.github.io/).
